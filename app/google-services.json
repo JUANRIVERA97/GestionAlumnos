@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337394897330",
+    "project_id": "gestionalumnos-16588",
+    "storage_bucket": "gestionalumnos-16588.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337394897330:android:3940fee196050c16d4d4ab",
+        "android_client_info": {
+          "package_name": "com.sena.gestionalumnos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCipOJRLV4op6Xlung7nRBKiwuXS27tYbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
