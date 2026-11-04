@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gestión de Alumnos</string>
+    <string name="instituto">Instituto Técnico</string>
+    <string name="subtitulo_login">Inicia sesión para gestionar los alumnos</string>
+    <string name="subtitulo_registro">Crea tu cuenta de usuario</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="confirmar_contrasena">Confirmar contraseña</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="no_registrado">¿Usuario no registrado?</string>
+    <string name="registrate">Regístrate</string>
+    <string name="registrar">Registrar</string>
+    <string name="ya_registrado">¿Ya tienes cuenta?</string>
+    <string name="inicia_sesion_link">Inicia sesión</string>
+    <string name="titulo_home">Registro de alumnos</string>
+    <string name="nuevo_alumno">Nuevo alumno</string>
+    <string name="nombre_alumno">Nombre completo</string>
+    <string name="documento">Número de documento</string>
+    <string name="programa">Programa de formación</string>
+    <string name="semestre">Semestre</string>
+    <string name="guardar_alumno">Guardar alumno</string>
+    <string name="alumnos_registrados">Alumnos registrados</string>
+    <string name="sin_alumnos">Aún no hay alumnos registrados.</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
